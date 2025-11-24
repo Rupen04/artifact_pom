@@ -1,2 +1,1 @@
-# cbz-student-ui
-
+#_maven_trial_with_sonarqube
