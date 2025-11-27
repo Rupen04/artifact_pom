@@ -8,7 +8,7 @@
 </head>
 <style>
 div.ex {
-	text-align: right width:300px;
+	text-align: right; width:300px;;
 	padding: 10px;
 	border: 5px solid grey;
 	margin: 0px
@@ -18,7 +18,7 @@ div.ex {
 	<h1>Tomcat Deployment Project</h1>
 	<div class="ex">
 		<form action="registrationController" method="post">
-			<table style="with: 50%">
+			<table style="width: 50%">
 				<tr>
 					<td>Name</td>
 					<td><input type="text" name="fullname"/></td>
