@@ -15,7 +15,7 @@ div.ex {
 }
 </style>
 <body>
-	<h1>Tomcat Deployment Project</h1>
+	<h1> Tomcat Deployment Project</h1>
 	<div class="ex">
 		<form action="registrationController" method="post">
 			<table style="width: 50%">
